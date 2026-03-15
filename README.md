@@ -23,7 +23,7 @@ The main objectives of this project are:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/FNP.png)
+![Dashboard](screenshot/FNP.png)
 
 ---
 
